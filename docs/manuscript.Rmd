@@ -1,6 +1,6 @@
 ---
 title: "Awesome manuscript about Iris"
-author: "`r Sys.info()['user']`"
+author: "Tracey Mangin & Juan Carlos Villaseñor-Derbez"
 date: "Compiled on `r date()` by `r Sys.info()['user']`"
 output: 
   bookdown::html_document2: 
